@@ -9,11 +9,11 @@ class CategoriesListView extends StatelessWidget {
     CategoryModel(image: 'assets/business.avif', categoryName: 'Business'),
     CategoryModel(
         image: 'assets/entertaiment.avif', categoryName: 'Entertaiment'),
-    CategoryModel(image: 'assets/health.avif', categoryName: 'Health'),
-    CategoryModel(image: 'assets/science.avif', categoryName: 'Science'),
-    CategoryModel(image: 'assets/technology.jpeg', categoryName: 'Technology'),
-    CategoryModel(image: 'assets/sports.avif', categoryName: 'Sports'),
-    CategoryModel(image: 'assets/general.avif', categoryName: 'General'),
+    CategoryModel(image: 'health.avif', categoryName: 'Health'),
+    CategoryModel(image: 'science.avif', categoryName: 'Science'),
+    CategoryModel(image: 'technology.jpeg', categoryName: 'Technology'),
+    CategoryModel(image: 'sports.avif', categoryName: 'Sports'),
+    CategoryModel(image: 'general.avif', categoryName: 'General'),
   ];
 
   @override
